@@ -1,3 +1,9 @@
-# Kempot
+## Ini adalah perkenalan
 
-Kempot adalah sebuah istilah yang dipopulerkan oleh om didi.
+**Mengapa? Karena**
+
+ - merah
+ - Hijau
+ - biru
+ - kuning
+ - ungu
